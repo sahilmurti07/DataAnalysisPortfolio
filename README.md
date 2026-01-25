@@ -120,4 +120,3 @@ with a long-term goal of working in **data-driven strategy and decision-making t
 ---
 
 ⭐ *“Turning data into insights, and insights into business impact.”*
-
