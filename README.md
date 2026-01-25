@@ -1,105 +1,123 @@
-<!-- HEADER -->
-<p align="center">
-  <h1 align="center">📊 Data Analytics Portfolio</h1>
-</p>
+# 👋 Hi, I'm Sahil Murti  
 
-<p align="center">
-  Hi 👋, I’m <strong>Sahil Murti</strong><br>
-  <em>Data Analytics Fresher | SQL • KPI Analysis • Business Insights</em>
-</p>
+🎓 **BCA Student | Data Analytics & Business Intelligence Enthusiast**  
+📍 Saharanpur, India  
 
-<hr>
+I am a data-focused analyst passionate about transforming raw datasets into **actionable business insights**. My experience spans **customer analytics, sales analysis, crisis impact assessment, and dashboard development**, with a strong emphasis on **Power BI, SQL, and Excel**.
 
-<!-- ABOUT -->
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🎓 BCA Student | Aspiring Data Analyst</li>
-  <li>📍 India</li>
-  <li>🔍 Interested in <strong>Data Analytics, Business Intelligence & SQL</strong></li>
-  <li>📈 Passionate about transforming raw data into meaningful insights</li>
-</ul>
+I enjoy working on **real-world business problems** where data supports strategic decision-making and recovery planning. :contentReference[oaicite:0]{index=0}
 
-<hr>
+---
 
-<!-- SKILLS -->
-<h2>🧠 Skills</h2>
-<ul>
-  <li><strong>SQL (MySQL)</strong></li>
-  <li>Data Cleaning & Exploration</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Business KPI Analysis</li>
-  <li>Trend & Revenue Analysis</li>
-  <li>Data Storytelling</li>
-</ul>
+## 🚀 What I Do
 
-<hr>
+- 📊 Analyze business and consumer data to uncover trends & risks  
+- 📈 Build interactive **Power BI dashboards** for stakeholders  
+- 🧠 Perform **customer segmentation, loyalty & churn analysis**  
+- 🔍 Identify operational gaps using KPIs  
+- 📝 Translate analysis into **clear, executive-ready insights**  
 
-<!-- PROJECTS -->
-<h2>📂 Projects</h2>
+---
 
-<h3>🛍️ Customer Behaviour Analysis & Strategic Improvement</h3>
-<p>
-<strong>End-to-end retail analytics project</strong> focused on customer retention,
-inventory optimization, and data-driven growth.
-</p>
+## 🛠️ Skills & Tools
 
-<ul>
-  <li>Analyzed <strong>3,900 customers</strong> generating <strong>£233K revenue</strong></li>
-  <li>Identified <strong>44.08% churn</strong> vs <strong>40.03% loyalty</strong></li>
-  <li>Performed gender and age-group behavioral analysis</li>
-  <li>Discovered untapped <strong>female subscription opportunity</strong></li>
-  <li>Optimized inventory planning (Size <strong>M</strong> demand dominance)</li>
-  <li>Delivered actionable strategic business recommendations</li>
-</ul>
+### 🔹 Data Analytics & BI
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Design & Performance Tracking  
+- Customer Segmentation & Retention Analysis  
+- Trend & Revenue Analysis  
 
-<p><strong>Skills Used:</strong> SQL, KPI Analysis, Data Cleaning, Power BI, Business Insights</p>
+### 🔹 Tools & Technologies
+- **Power BI** (DAX, Data Modeling, Dashboards)
+- **SQL / MySQL** (Joins, Aggregations, Queries)
+- **Excel** (Pivot Tables, Advanced Formulas)
+- **Python (Basics)** for analysis
+- **Git & GitHub**
 
-<br>
+---
 
-<h3>🎮 Gaming Console Sales Analysis</h3>
-<p>
-Analyzed sales trends, seasonal demand, and customer behavior
-across gaming consoles (2019–2021).
-</p>
+## 📂 Data Analytics Projects
 
-<p><strong>Skills Used:</strong> SQL, Trend Analysis, EDA</p>
+### 📌 Crisis Impact & Strategic Recovery Analysis – QuickBite Express
+**Power BI | Business Strategy | Customer Analytics**
 
-<br>
+- Analyzed a **major food-delivery crisis (Jun–Sep 2025)**
+- Identified an **81% decline in orders** (244K → 46K)
+- Estimated **₹68.10M revenue loss**
+- Performed:
+  - Pre-crisis vs crisis comparison
+  - Customer loyalty & churn analysis
+  - City & restaurant-level impact analysis
+  - Sentiment analysis from customer reviews
+- Built an **executive recovery dashboard** and **professional PDF report**
+- Identified **87K recoverable customers** and **2,134 loyal customers lost**
 
-<h3>🍕 Domino’s Pizza Store Analysis</h3>
-<p>
-SQL-based analysis identifying sales distribution,
-top-selling categories, and ordering behavior.
-</p>
+📊 *This project focuses on crisis recovery, trust rebuilding, and operational strategy.*
 
-<p><strong>Skills Used:</strong> SQL, Business KPIs, Revenue Analysis</p>
+---
 
-<p><em>More projects coming soon…</em></p>
+### 📌 Domino’s Pizza Sales Analysis
+**SQL | Excel | Power BI**
 
-<hr>
+- Analyzed pizza sales data to identify:
+  - Category-wise performance
+  - Revenue trends
+  - High-performing products
+- Used **MySQL queries** for data extraction and transformation
+- Built **Excel summaries and Power BI dashboards** to present insights clearly
 
-<!-- TOOLS -->
-<h2>🛠 Tools</h2>
-<ul>
-  <li>MySQL</li>
-  <li>Excel</li>
-  <li>Power BI</li>
-  <li>Git & GitHub</li>
-</ul>
+---
 
-<hr>
+### 📌 Gaming Console Sales Analysis
+**SQL | Excel | Power BI**
 
-<!-- CONTACT -->
-<h2>📫 Connect With Me</h2>
-<ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/sahilmurti07">github.com/sahilmurti07</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/sahil-murti-844b75330">linkedin.com/in/sahil-murti-844b75330</a></li>
-  <li><strong>Email:</strong> sahilmurti18@gmail.com</li>
-</ul>
+- Analyzed global console sales data to uncover:
+  - Market trends
+  - Regional demand patterns
+  - Top-performing products
+- Cleaned and transformed data using **SQL & Excel**
+- Visualized insights through **Power BI dashboards**
 
-<hr>
+---
 
-<p align="center">
-📌 <em>This portfolio highlights my practical journey in data analytics,
-focused on business impact and problem-solving.</em>
-</p>
+### 📌 Customer Loyalty & Retention Analysis
+**Business Intelligence | Power BI**
+
+- Defined loyal customers using **order frequency**
+- Measured loyalty loss during crisis periods
+- Segmented customers into **Active, Recoverable, and Lost**
+- Built KPIs to support **win-back and retention strategies**
+
+---
+
+### 📌 IPL First Innings Score Analysis
+**Research | Data Visualization**
+
+- Analyzed first-innings score trends in IPL matches
+- Used statistical summaries and visualizations
+- Created insights for academic research and data storytelling
+
+---
+
+## 🎯 Career Focus
+
+I am actively preparing for roles such as:
+- **Data Analyst**
+- **Business Analyst**
+- **Business Intelligence Analyst**
+
+with a long-term goal of working in **data-driven strategy and decision-making teams**.
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 GitHub: *You are here* 😊  
+- 🔗 LinkedIn: https://linkedin.com/in/sahil-murti-844b75330  
+- 📧 Email: sahilmurti18@gmail.com  
+
+---
+
+⭐ *“Turning data into insights, and insights into business impact.”*
+
