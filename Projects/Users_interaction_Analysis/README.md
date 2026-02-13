@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sahilmurti07/DataAnalysisPortfolio/blob/main/Projects/Users_interaction_Analysis/Dashboard_overview.png?raw=true" width="900"/>
+</p>
+
 <h1>📊 User Interaction & Conversion Analysis (SQL Project)</h1>
 
 <p>
