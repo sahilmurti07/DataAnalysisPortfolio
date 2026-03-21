@@ -4,7 +4,7 @@
 
 Transformed raw 2025 transaction data into actionable insights for marketing, sales, and retention teams.
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](assets/dashboard.png)
 
 <div align="center">
 
