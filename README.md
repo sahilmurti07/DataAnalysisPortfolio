@@ -1,5 +1,5 @@
 # Sahil Murti  
-### Aspiring Data Analyst | SQL | Business Analytics | Data Visualization  
+### Data Analyst | SQL | Business Analytics | Data Visualization  
 
 📍 Saharanpur, India  
 📧 sahilmurti18@gmail.com  
@@ -8,9 +8,11 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Aspiring Data Analyst with hands-on experience in SQL-based business analysis, customer behavior analytics, and funnel performance tracking. Skilled in transforming raw datasets into actionable business insights and KPI-driven reports.
+I am a Data Analyst with a strong foundation in SQL, data analysis, and visualization, focused on solving real-world business problems through data. I have hands-on experience working with customer behavior analysis, funnel performance tracking, and KPI-driven reporting.
+
+I enjoy transforming raw datasets into clear, actionable insights that support decision-making and improve business outcomes. Currently, I am strengthening my skills in Python and Machine Learning to expand into advanced analytics and data science.
 
 ---
 
@@ -19,7 +21,7 @@ Aspiring Data Analyst with hands-on experience in SQL-based business analysis, c
 - **SQL (MySQL)**
 - **Excel (Pivot Tables, Dashboards)**
 - **Python (Pandas, Matplotlib)**
-- Power BI (Basic)
+- **Power BI (Basic)**
 - Data Cleaning & EDA
 - Funnel Analysis
 - Customer Segmentation
@@ -29,28 +31,29 @@ Aspiring Data Analyst with hands-on experience in SQL-based business analysis, c
 ## 📊 Projects
 
 ### 🔹 Customer Behaviour Analysis
-- Analyzed purchasing patterns and retention metrics.
+- Analyzed purchasing patterns and customer retention.
 - Identified high-value customer segments.
-- Generated revenue optimization insights.
+- Delivered actionable insights for revenue optimization.
 
 ### 🔹 Users Interaction Analysis
 - Performed funnel analysis (Page View → Add to Cart → Purchase).
-- Measured drop-off rates and conversion metrics.
-- Identified key friction points reducing conversions.
+- Calculated conversion rates and drop-offs.
+- Identified key friction points affecting user journey.
 
 ### 🔹 E-Bikes Sales Analysis
-- Evaluated regional sales performance.
-- Identified seasonal demand patterns.
-- Suggested inventory and pricing improvements.
+- Evaluated regional and seasonal sales trends.
+- Identified demand patterns and growth opportunities.
+- Suggested pricing and inventory improvements.
 
 ### 🔹 Gaming Console Analysis
-- Analyzed sales trends across markets.
-- Identified top-performing products and revenue drivers.
+- Analyzed sales performance across multiple markets.
+- Identified top-selling products and revenue drivers.
+- Generated insights for strategic decision-making.
 
 ### 🔹 QuickBite Express – Crisis Impact & Recovery Analysis
-- Compared pre- and post-crisis revenue.
-- Identified operational gaps.
-- Proposed recovery roadmap based on data.
+- Compared pre- and post-crisis business performance.
+- Identified operational inefficiencies and customer drop-offs.
+- Proposed a data-driven recovery strategy.
 
 ---
 
@@ -58,4 +61,4 @@ Aspiring Data Analyst with hands-on experience in SQL-based business analysis, c
 
 **Bachelor of Computer Applications (BCA)**  
 Quantum University, Roorkee  
-Expected Graduation: 2026
+📅 Expected Graduation: 2026
